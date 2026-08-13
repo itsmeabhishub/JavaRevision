@@ -1,7 +1,7 @@
 // Camelcasing
 // class and interface :- Clac, Runable => start capital
 //variables and methods :- age, show(); => always lower case
-//constant:- PIE, BRAND => always upper case
+//constant:- PIE, BRAND => always uppercase
 //constructor Human()
 
 
