@@ -6,3 +6,5 @@
 
 
 //maximum time we use camelcasing like showMyTicket
+
+//package in java is like our folder in computer to accumulate the similar thing at a place
