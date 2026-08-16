@@ -28,3 +28,14 @@ Different package sub class                YES              NO            YES   
 
 
 Different package non-sub class            YES              NO             NO              NO
+
+
+
+
+                                                  POLYMORPHISM
+  ONE THING MANY FORM
+
+
+Two type of polymorphism
+1) compile time polymorphism - method overloading
+2) run time polymorphism - method overriding
