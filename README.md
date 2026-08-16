@@ -10,7 +10,7 @@
 //package in java is like our folder in computer to accumulate the similar thing at a place
 
 
-Access modifer in java
+Access modifer in java is keyword that help to define from where a class, variables, methods or constructor can be access.
 
                                           Public          Private        Protected        Default
 
