@@ -1,7 +1,8 @@
 // Camelcasing
 // class and interface :- Clac, Runable => start capital
+                      => if we want our cannot inherit by other class we can use final keyword to prevent
 //variables and methods :- age, show(); => always lower case
-                    => final keyword help us to make variables unchangable
+                    => final keyword help us to make variables unchangable && samw with method also we can prevent method overriding by using final keyword
 //constant:- PIE, BRAND => always uppercase
 //constructor Human()
 
