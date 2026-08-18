@@ -41,3 +41,23 @@ Different package non-sub class            YES              NO             NO   
 Two type of polymorphism
 1) compile time polymorphism - method overloading
 2) run time polymorphism - method overriding
+
+                                                  OBJECT CLASS
+
+Object class in java is the root or parent class of all classes
+
+
+class A {
+}
+
+java internal see like this
+
+class A extends Object {
+}
+
+Some commonly used method in from object class
+
+equals()
+hashcCode()
+toString()
+getClass()
