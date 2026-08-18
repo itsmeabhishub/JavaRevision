@@ -71,7 +71,7 @@ double x = 10.05
 
 int y = (int) x;
 
-thhis is premitive type conversion
+this is premitive type conversion
 
 now we will look into class/ object type casting
 so basically we can do two type of type casting:- upcasting from child to parent and downcasting from parent to child
