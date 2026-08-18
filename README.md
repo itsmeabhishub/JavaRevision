@@ -61,3 +61,17 @@ equals()
 hashcCode()
 toString()
 getClass()
+
+
+                                              TYPECASTING
+
+We can change type of primitive vale like if we have value in double we can change into int
+
+double x = 10.05
+
+int y = (int) x;
+
+thhis is premitive type conversion
+
+now we will look into class/ object type casting
+so basically we can do two type of type casting:- upcasting from child to parent and downcasting from parent to child
