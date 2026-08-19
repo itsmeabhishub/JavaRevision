@@ -75,3 +75,20 @@ this is premitive type conversion
 
 now we will look into class/ object type casting
 so basically we can do two type of type casting:- upcasting from child to parent and downcasting from parent to child
+
+                                                WRAPPER CLASSES
+
+Wrapper classes are class in java that provide an object reperesentation of primitive data type
+
+int x = 10; // primitive data type
+Integer y= 10;  //wrapper classes
+
+Autoboxing:- Changing primitive data type to wrapper classes automatically
+
+int a = 10;
+
+Integer b = a; //behind the scene the primitive data type change into wrapper classes
+
+int => Integer;
+float => Float
+double => Double
