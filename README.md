@@ -116,3 +116,5 @@ int a = 10;
   }
 
 }
+
+++ Anonymous inner class => we instantiated this class when we need to call a class once and it is without a name.
