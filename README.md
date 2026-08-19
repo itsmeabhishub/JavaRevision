@@ -96,6 +96,8 @@ double => Double
 
                                                 ABSTRACT KEYWORD
 
-Abstract class is class whose objected cant be created whose propose is to provide base which can be used by its child, in abstract class we have abstract method and normal method also.
+Abstract class is class whose object cant be created, and its purpose is to provide base class which can be used by its child class do the thing as per his requirement, in abstract class we have abstract method and normal method too.
 
-Abstract method we can just define and later child class can use as per his requirement.
+
+Abstract method we can just define it and later child class can use as per his requirement.
+
