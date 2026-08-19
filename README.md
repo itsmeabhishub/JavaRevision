@@ -101,3 +101,18 @@ Abstract class is class whose object cant be created, and its purpose is to prov
 
 Abstract method we can just define it and later child class can use as per his requirement.
 
+
+
+                                                  INNER CLASS
+
+Inner class in java is defined inside another class. 
+
+class A{
+
+int a = 10;
+
+  class B{
+    int b = 10;
+  }
+
+}
