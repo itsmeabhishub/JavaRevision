@@ -92,3 +92,10 @@ Integer b = a; //behind the scene the primitive data type change into wrapper cl
 int => Integer;
 float => Float
 double => Double
+
+
+                                                ABSTRACT KEYWORD
+
+Abstract class is class whose objected cant be created whose propose is to provide base which can be used by its child, in abstract class we have abstract method and normal method also.
+
+Abstract method we can just define and later child class can use as per his requirement.
