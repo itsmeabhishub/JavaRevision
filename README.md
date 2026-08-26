@@ -118,3 +118,13 @@ int a = 10;
 }
 
 ++ Anonymous inner class => we instantiated this class when we need to call a class once and it is without a name.
+
+
+                                                INTERFACE
+
+INTERFACE is contractthat define a set of behaviours that implementing class must provided. It is used for abstracting, loose coupling, polymorphism, and allowing a class to implement multiple contract.
+
+Three type of interface:-
+    1)Normal Interface
+    2)Functional interface
+    3)Marker interface
