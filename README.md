@@ -128,3 +128,11 @@ Three type of interface:-
     1)Normal Interface
     2)Functional interface
     3)Marker interface
+
+
+                                                  LAMBDA EXPRESSION
+
+A lambda expression is a concise way of providing implementation of a functional interface in java. It was introduce in java 8 and is commonly used with functional interface, collections and streams.
+
+  Syntax
+    (Parameter) -> expression/ statement
