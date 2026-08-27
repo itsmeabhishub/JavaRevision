@@ -7,8 +7,8 @@ public class ExceptionJ {
         int j = 0;
 
         try {
-            j=18/i;
-        } catch (Exception e){
+            j = 18 / i;
+        } catch (Exception e) {
             System.out.println("Something went wrong..");
         }
 
