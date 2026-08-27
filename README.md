@@ -136,3 +136,11 @@ A lambda expression is a concise way of providing implementation of a functional
 
   Syntax
     (Parameter) -> expression/ statement
+
+                                                  EXCEPTION
+
+An Exception in java is an event that disrupts the normal flow of program execution.
+
+1)Compile time error
+2)Run time error
+3)Logical error
