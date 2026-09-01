@@ -149,3 +149,8 @@ we can handle expection usng Try/ catch block,
 
 then we have finally to implement something despite of failure or success of logic
 and we have advance method to implement finally that is resource
+
+                                                      Thread
+Thread in java is lightweight unit of execution within a process. It llows tasks to excute concurrently
+
+A thread can be created by extebding **Thread** class  or implementing **Runnable** and **start()** is used to begin the thread
