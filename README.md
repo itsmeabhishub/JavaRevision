@@ -154,3 +154,6 @@ and we have advance method to implement finally that is resource
 Thread in java is lightweight unit of execution within a process. It llows tasks to excute concurrently
 
 A thread can be created by extebding **Thread** class  or implementing **Runnable** and **start()** is used to begin the thread
+
+
+Process -> Multiple Thread -> Concurrent execution of task
