@@ -1,3 +1,5 @@
+package Variables;
+
 import java.io.*;
 
 public class TakingInput {
