@@ -15,5 +15,7 @@ public class HashMap {
         student.put("Abhay", 26);
 
         System.out.println(student);
+
+        System.out.println(student.get("Abhay"));
     }
 }
