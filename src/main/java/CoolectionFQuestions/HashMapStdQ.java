@@ -20,5 +20,6 @@ public class HashMapStdQ {
             }
         }
         System.out.println(highest +" "+ student);
+        System.out.println(studentObj);
     }
 }
