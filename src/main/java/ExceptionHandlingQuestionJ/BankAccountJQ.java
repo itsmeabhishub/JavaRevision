@@ -9,14 +9,14 @@ class BankAccount{
         return balance;
     }
     public double deposit(double amount){
-        if(amount < 0){
+        if(amount <= 0){
             throw new IllegalArgumentException("Please enter amount in positive value");
         }
         balance = balance + amount;
         return balance;
     }
     public double withdraw(double amount){
-        if(amount > balance){
+        if(amount > balance || amount <= 0){
             throw new IllegalArgumentException("Amount is not present in account");
         }
         balance = balance - amount;
