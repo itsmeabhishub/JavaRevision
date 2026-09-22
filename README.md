@@ -148,7 +148,8 @@ An Exception in java is an event that disrupts the normal flow of program execut
 we can handle expection usng Try/ catch block,
 
 then we have finally to implement something despite of failure or success of logic
-and we have advance method to implement finally that is resource
+and we have advance method to implement finally that is resource,
+We can customize our exption as per our need.
 
                                                       Thread
 Thread in java is lightweight unit of execution within a process. It llows tasks to excute concurrently
