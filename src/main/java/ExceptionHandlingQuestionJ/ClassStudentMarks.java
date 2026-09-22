@@ -16,7 +16,7 @@ class Student{
          this.marks = marks;
      }
      public void showStudent(){
-        if(marks <= 100 && marks => 0 ){
+        if(marks <= 100 && marks >= 0 ){
             System.out.println(" name is " + name + " and marks is " +marks);
         }}
 }
