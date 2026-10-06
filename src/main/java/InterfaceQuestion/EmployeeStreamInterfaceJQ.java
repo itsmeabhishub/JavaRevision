@@ -70,7 +70,7 @@ public class EmployeeStreamInterfaceJQ {
                 .max((m1, m2) -> Double.compare(m1.getSalary(), m2.getSalary()))
                 .map(e -> e.getName());
 
-        System.out.println(n.get());
+        System.out.print(n.get());
 
     }
 }
