@@ -66,7 +66,7 @@ public class EmployeeStreamInterfaceJQ {
                 new TesterStream("Deepak")
         );
         Optional<Object> n = empStream.stream()
-                .filter(e -> e.getSalary() > 65000)
+                .filter(e -> e.getSalary() > 55000)
                 .max((m1, m2) -> Double.compare(m1.getSalary(), m2.getSalary()))
                 .map(e -> e.getName());
 
