@@ -95,7 +95,7 @@ public class CollectionInterfaceJQ {
         System.out.println("--------------------------------------------------------------------------");
 
        prudct.stream()
-               .map(n -> n.getName())
+               .map(Product::getName)
                .forEach(n -> System.out.println(n));
 
     }
