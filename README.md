@@ -160,3 +160,7 @@ A thread can be created by extebding **Thread** class  or implementing **Runnabl
 Process -> Multiple Thread -> Concurrent execution of task
 
 run() define the task while start() satrts new thread to excute the task
+
+                                                    Collection Framework
+
+
