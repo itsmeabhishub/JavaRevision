@@ -25,6 +25,6 @@ public class HashMapObjectJQ {
         empMap.put(3 , new Employees(3, "Shurti", 28000, "HR"));
         empMap.put(4 , new Employees(4, "Ankit", 98000, "SEAEM"));
         System.out.println(empMap.get(2).department);
-        empMap.remove(3);
+        empMap.remove(2);
     }
 }
