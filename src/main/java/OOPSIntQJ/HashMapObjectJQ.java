@@ -24,7 +24,30 @@ public class HashMapObjectJQ {
         empMap.put(2 , new Employees(2, "Deepak", 48000, "QEA"));
         empMap.put(3 , new Employees(3, "Shurti", 28000, "HR"));
         empMap.put(4 , new Employees(4, "Ankit", 98000, "SEAEM"));
-        System.out.println(empMap.get(2).department);
+
+        int eID= 1;
+        double maxSal=0;
+
+        double totalSal = 0;
+        double count = 0;
+        for(Employees emp : empMap.values()){
+            if(emp.id == eID){
+                System.out.println(emp.name);
+            }
+            if(emp.salary > maxSal){
+                maxSal = emp.salary;
+            }
+
+            if(emp.department.equals("QEA")){
+                System.out.println(emp.name);
+            }
+
+            totalSal += emp.salary;
+            count++;
+        }
         empMap.remove(1);
+        System.out.println(maxSal);
+        System.out.println(totalSal/count);
+
     }
 }
