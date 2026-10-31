@@ -38,7 +38,7 @@ public class HashMapObjectJQ {
                 maxSal = emp.salary;
             }
 
-            if(emp.department.equals("QEA")){
+            if(emp.department.equals("SEAEM")){
                 System.out.println(emp.name);
             }
 
