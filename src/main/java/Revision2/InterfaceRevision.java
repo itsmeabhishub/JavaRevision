@@ -18,7 +18,7 @@ class Shopkeeper implements Payment{
 public class InterfaceRevision {
     public static void main(String[] args) {
         Shopkeeper shop = new Shopkeeper();
-        shop.paymentCash();
         shop.paymentUPI();
+        shop.paymentCash();
     }
 }
